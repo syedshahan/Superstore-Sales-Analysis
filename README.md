@@ -1,5 +1,13 @@
 # Superstore-Sales-Analysis
 
+• Conducted comprehensive sales data analysis, including data preprocessing.
+• Utilized SQL queries for performance metric calculations and data grouping.
+• Extracted insights on sales trends, top products, and underperforming regions.
+• Identified cross-selling and upselling opportunities.
+
+
+**Description:**
+
 Objective: Identifying the patterns in our products, regions, categories and customer segments for efficiency and profit optimization with Excel, SQL and Power BI.
 
 How: Our analysis in question will be carried with Excel, SQL and finally Power BI. Excel will serve as the first repository for our data, SQL will give meaning to our data and Power BI will give a clear face to our data. The following sales performance analysis will follow the 6 steps of Data Analysis which are: Ask, Prepare, Process, Analyze, Share and Act.
